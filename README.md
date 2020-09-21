@@ -1,5 +1,5 @@
 This is a test to recreate and potentially replace the pre-exisiting website for my partners business. 
-I have of course linked the Conan The Barbarian soundtrack in secret to keep things interesting.
+
 
 To Do's:
 1. At present the About and Store links simply go to the existing websites pages. The About page 
